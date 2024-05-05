@@ -1,0 +1,17 @@
+{
+  "name": "qrcode-mini",
+  "version": "1.0.2",
+  "git": "https://github.com/xjh22222228/qrcode-mini",
+  "description": "Mini program QR code generation",
+  "main": "index.min.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "xiejiahe",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^4.17.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
