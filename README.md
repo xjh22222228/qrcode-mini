@@ -50,13 +50,14 @@ Page({
 
 ## API
 
-| 字段 | 说明 | 类型 |
-| width | 节点宽度 | Number |
-| height | 节点高度 | Number |
-| node | canvas 节点，别名 `element` / `canvas` | Number |
-| correctLevel | 容错级别默认 2，可选 0/1/2/3 | Number |
-| foreground | 二维码颜色，默认 #000000 | String |
-| background | 二维码背景色，默认 #ffffff | String |
+| 字段         | 说明                                   | 类型   |
+| ------------ | -------------------------------------- | ------ |
+| width        | 节点宽度                               | Number |
+| height       | 节点高度                               | Number |
+| node         | canvas 节点，别名 `element` / `canvas` | Number |
+| correctLevel | 容错级别默认 2，可选 0/1/2/3           | Number |
+| foreground   | 二维码颜色，默认 #000000               | String |
+| background   | 二维码背景色，默认 #ffffff             | String |
 
 ## License
 
