@@ -8,12 +8,6 @@ dependencies:
   qrcode-mini:
     specifier: ^1.0.2
     version: 1.0.2
-  rollup:
-    specifier: ^4.17.2
-    version: 4.17.2
-  rollup-plugin-terser:
-    specifier: ^7.0.2
-    version: 7.0.2(rollup@4.17.2)
 
 packages:
 
