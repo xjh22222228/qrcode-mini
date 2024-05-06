@@ -36,7 +36,7 @@ Page({
         canvas.width = res[0].width * dpr;
         canvas.height = res[0].height * dpr;
 
-        // 只需要简单的4行
+        // 核心代码
         qrcode({
           width: canvas.width,
           height: canvas.height,

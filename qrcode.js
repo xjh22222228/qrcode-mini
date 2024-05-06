@@ -45,10 +45,12 @@ function draw(options) {
       }
     }
     // return just built canvas
-    return options.node;
+    return {
+      ...options
+    };
   };
 
-  createCanvas();
+  return createCanvas();
 }
 
 export default draw;
