@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "qrcode-mini": "^1.0.2"
+    "qrcode-mini": "^1.0.4"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "qrcode-mini",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "git": "https://github.com/xjh22222228/qrcode-mini",
   "description": "Mini program QR code generation",
   "main": "index.min.js",
